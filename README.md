@@ -6,18 +6,18 @@ Sou formado em Gestão Financeira pela Faculdade FIPECAFI – Fundação Institu
 
 Atualmente, estudo Ciência de Dados, buscando complementar minha experiência em finanças, processos e operações com análise de dados e tecnologia.
 
-### 🎓 Formação
+###  Formação
 
-* 🎓 **Gestão Financeira** — Faculdade FIPECAFI
-* 📚 **Ciência de Dados** — Em andamento
+*  **Gestão Financeira** — Faculdade FIPECAFI
+*  **Ciência de Dados** — Em andamento
 
-### 💻 Atualmente estudando
+###  Atualmente estudando
 
-* 🐍 Python
-* 🗄️ SQL
-* 📊 Análise de Dados
-* 📈 Visualização de Dados
-* 🤖 Machine Learning
+*  Python
+*  SQL
+*  Análise de Dados
+*  Visualização de Dados
+*  Machine Learning
 
 
 ### 📂 Projetos
