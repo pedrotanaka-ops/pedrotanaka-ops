@@ -1,30 +1,31 @@
-#  Olá, eu sou o Pedro!
+#  Hello, I'm Pedro!
 
 ### A new kid is on the block.
-Saindo do Excel e tentando entender o Python. 🐍
 
-Assistente Financeiro | Em transição para Ciência de Dados
+*From spreadsheets to Python, one line of code at a time.* 🐍
 
-Sou formado em Gestão Financeira pela Faculdade FIPECAFI – Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras.
+**Financial Assistant | Transitioning into Data Science**
 
-Atualmente, estudo Ciência de Dados na EBAC, buscando complementar minha experiência em finanças, processos e operações com análise de dados e tecnologia.
+I hold a degree in **Financial Management** from **Faculdade FIPECAFI – Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras**.
 
-###  Formação
+Currently studying **Data Science at EBAC**, combining my background in finance, business processes, and operations with data analysis and technology.
 
-*  **Gestão Financeira** — Faculdade FIPECAFI
-*  **Ciência de Dados** — Em andamento
+### Education
+
+* **Financial Management** — Faculdade FIPECAFI
+* **Data Science** — EBAC | In Progress
 
 ## Main Skills
 
-- Data Analysis
-- Financial & Operational Processes
-- Process Optimization
-- Excel & Google Sheets
-- Python & SQL
-- Reporting & Data Visualization
+* Data Analysis
+* Financial & Operational Processes
+* Process Optimization
+* Excel & Google Sheets
+* Python & SQL
+* Reporting & Data Visualization
 
+### Projects
 
-### 📂 Projetos
+Coming soon... 🚧
 
-Em construção... 🚧
 
