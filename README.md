@@ -11,13 +11,14 @@ Atualmente, estudo Ciência de Dados, buscando complementar minha experiência e
 *  **Gestão Financeira** — Faculdade FIPECAFI
 *  **Ciência de Dados** — Em andamento
 
-###  Atualmente estudando
+## Main Skills
 
-*  Python
-*  SQL
-*  Análise de Dados
-*  Visualização de Dados
-*  Machine Learning
+- Data Analysis
+- Financial & Operational Processes
+- Process Optimization
+- Excel & Google Sheets
+- Python & SQL
+- Reporting & Data Visualization
 
 
 ### 📂 Projetos
