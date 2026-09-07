@@ -21,7 +21,7 @@ Currently studying **Data Science at EBAC**, combining my background in finance,
 * Financial & Operational Processes
 * Process Optimization
 * Excel & Google Sheets
-* Python & SQL
+* Python & SQL - Work in Progress 🚧
 * Reporting & Data Visualization
 
 ### Projects
