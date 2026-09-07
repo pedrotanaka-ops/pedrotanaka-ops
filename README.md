@@ -4,6 +4,8 @@
 
 *From spreadsheets to Python, one line of code at a time.* 🐍
 
+27 years old | Osasco, São Paulo, Brazil
+
 **Financial Assistant | Transitioning into Data Science**
 
 I hold a degree in **Financial Management** from **Faculdade FIPECAFI – Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras**.
