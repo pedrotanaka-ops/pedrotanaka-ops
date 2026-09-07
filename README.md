@@ -1,10 +1,13 @@
-# 👋 Olá, eu sou o Pedro!
+##  Olá, eu sou o Pedro!
+
+# A new kid is on the block.
+Saindo do Excel e tentando entender o Python. 🐍
 
 Assistente Financeiro | Em transição para Ciência de Dados
 
 Sou formado em Gestão Financeira pela Faculdade FIPECAFI – Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras.
 
-Atualmente, estudo Ciência de Dados, buscando complementar minha experiência em finanças, processos e operações com análise de dados e tecnologia.
+Atualmente, estudo Ciência de Dados na EBAC, buscando complementar minha experiência em finanças, processos e operações com análise de dados e tecnologia.
 
 ###  Formação
 
