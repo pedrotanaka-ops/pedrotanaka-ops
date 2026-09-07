@@ -1,4 +1,5 @@
-#👋 Olá, eu sou o Pedro!
+# 👋 Olá, eu sou o Pedro!
+
 Assistente Financeiro | Em transição para Ciência de Dados
 
 Sou formado em Gestão Financeira pela Faculdade FIPECAFI – Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras.
