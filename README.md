@@ -1,5 +1,25 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+#👋 Olá, eu sou o Pedro!
+Assistente Financeiro | Em transição para Ciência de Dados
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Tanaka;I'm+27+years+old;I'm+from+Brazil;I'm+a+Data+Scientist+student;!+:%29)](https://git.io/typing-svg)
+Sou formado em Gestão Financeira pela Faculdade FIPECAFI – Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras.
 
-### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+Atualmente, estudo Ciência de Dados, buscando complementar minha experiência em finanças, processos e operações com análise de dados e tecnologia.
+
+### 🎓 Formação
+
+* 🎓 **Gestão Financeira** — Faculdade FIPECAFI
+* 📚 **Ciência de Dados** — Em andamento
+
+### 💻 Atualmente estudando
+
+* 🐍 Python
+* 🗄️ SQL
+* 📊 Análise de Dados
+* 📈 Visualização de Dados
+* 🤖 Machine Learning
+
+
+### 📂 Projetos
+
+Em construção... 🚧
+
