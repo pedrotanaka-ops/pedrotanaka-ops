@@ -1,6 +1,6 @@
-##  Olá, eu sou o Pedro!
+#  Olá, eu sou o Pedro!
 
-# A new kid is on the block.
+### A new kid is on the block.
 Saindo do Excel e tentando entender o Python. 🐍
 
 Assistente Financeiro | Em transição para Ciência de Dados
